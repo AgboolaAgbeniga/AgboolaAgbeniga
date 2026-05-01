@@ -56,10 +56,11 @@ With over **3 years of experience**, I specialize in creating seamless user expe
 <!-- PROJECTS:START -->
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Zuri Portfolio](https://zuriportfolio.vercel.app/)** · [Source](https://github.com/AgboolaAgbeniga/zuri-portfolio) | A marketplace for personalized portfolios and digital product sales. | Next.js, TypeScript, Tailwind |
-| **[Dream Affairs](https://dream-affairs-frontend-dev.vercel.app)** · [Source](https://github.com/AgboolaAgbeniga/dream-affairs) | A sophisticated wedding planning web application. | Next.js, Shadcn UI, TypeScript |
-| **[Movie Search Engine](https://movieapp-seven-cyan.vercel.app)** · [Source](https://github.com/AgboolaAgbeniga/movie-search) | AI-powered movie discovery using TMDb API. | React, Tailwind, TMDb API |
-| **[Bus Fee Calculator](https://busfee-calculator.vercel.app/)** · [Source](https://github.com/AgboolaAgbeniga/busfee-calculator) | A utility app for calculating transportation costs. | Next.js, TypeScript, JSON |
+| **[Ajol_management](https://github.com/AgboolaAgbeniga/Ajol_management)** | No description provided. | HTML |
+| **[audiophile](https://audiophile-eight-rosy.vercel.app)** · [Source](https://github.com/AgboolaAgbeniga/audiophile) | No description provided. | TypeScript |
+| **[busfee_calculator](https://busfee-calculator.vercel.app)** · [Source](https://github.com/AgboolaAgbeniga/busfee_calculator) | No description provided. | TypeScript |
+| **[zuriportfolio-frontend](https://zuriportfolio.vercel.app/)** · [Source](https://github.com/hngx-org/zuriportfolio-frontend) ⭐ 31 | zuriportfolio frontend app | TypeScript |
+| **[Dream-Affairs-Frontend](https://dream-affairs-frontend-dev.vercel.app)** · [Source](https://github.com/Dream-Affairs/Dream-Affairs-Frontend) ⭐ 1 | For all things dreamy and romantic, plan your dream wedding with us. | TypeScript |
 <!-- PROJECTS:END -->
 
 ---
